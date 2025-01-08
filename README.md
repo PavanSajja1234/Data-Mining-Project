@@ -1,7 +1,5 @@
 Contributors:
-Sajja Pavan
-Maruthi Samudrala
-
+Sajja Pavan.
 Abstract:
 The report investigates market basket analysis (MBA) using the Apriori algorithm combined with logistic regression and decision tree classification to understand item associations and customer purchasing behaviors. The study aims to aid retailers in decision-making and optimizing store layouts and promotions.
 
